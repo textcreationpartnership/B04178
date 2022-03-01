@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Bishop of Londonderry's case: with some reasons humbly offered to the consideration of the Lords in England, to induce their lordships not to take cognizance of an appeal lately brought before them by the Society of Assistants in London for Ulster in Ireland, against an order of the House of Lords in Ireland, made the last sessions of Parliament there.</title>
+            <author>Sloane, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04178</idno>
+            <idno type="STC">Wing L3041</idno>
+            <idno type="STC">ESTC R180058</idno>
+            <idno type="EEBO-CITATION">53299188</idno>
+            <idno type="OCLC">ocm 53299188</idno>
+            <idno type="VID">179932</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04178)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179932)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2808:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Bishop of Londonderry's case: with some reasons humbly offered to the consideration of the Lords in England, to induce their lordships not to take cognizance of an appeal lately brought before them by the Society of Assistants in London for Ulster in Ireland, against an order of the House of Lords in Ireland, made the last sessions of Parliament there.</title>
+                  <author>Sloane, James.</author>
+                  <author>Annesley, Francis, fl. 1707.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Signed at end: James Sloane. Fra. Annesley.</note>
+                  <note>Imperfect: print show through with slight loss of text.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Londonderry (Northern Ireland) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:179932:1" rendition="simple:additions"/>
+            <head>THE Lord Biſhop of <hi>Londonderry</hi>'s CASE: </head>
+            <argument>
+               <p>With ſome Reaſons humbly offered to the Conſideration of the Lords in <hi>England,</hi> to induce their Lordſhips not to take cogni<g ref="char:EOLhyphen"/>zance of an Appeal lately brought before them by the Society and Aſſiſtants of <hi>London</hi> for <hi>
+                     <g ref="char:V">Ʋ</g>lſter</hi> in <hi>Ireland,</hi> againſt an Order of the Houſe of Lords in <hi>Ireland,</hi> made the laſt Seſſions of Parlia<g ref="char:EOLhyphen"/>ment there.</p>
+            </argument>
+            <p>THOUGH the Title upon the Merits is not now to be debated before the Lords, yet it is neceſſary to ſhow the Fact on which this Appeal has been brought, for on that ariſes the Queſtion about the Juriſdiction.</p>
+            <p>The Predeceſſors of the Biſhop in right of the Church were ſeized of the Lands in Queſtion ever ſince any Settlement of the Church in <hi>Ireland,</hi> and ſo long ſince as the 11th of <hi>June,</hi> 1638. Dr. <hi>Bramhall,</hi> the then Biſhop, by Virtue of Acts of Parliament of <hi>Ireland,</hi> 10th and 11th <hi>Car.</hi> 1. granted them in Leaſe to the Corporation of <hi>Londonderry,</hi> at 50 <hi>l.</hi> yearly Rent for ſixty Years, from the 14th of <hi>July,</hi> 1634. which Leaſe ended the 14th of <hi>July,</hi> 1694. and ſaving the Twelve years Troubles of <hi>Cromwell</hi>'s Time, the Rent, and even the laſt Quarters Rent was conſtantly and duly paid by them; and they by their Council, Mr. <hi>Cairnes,</hi> and others, applied for a new Leaſe; but the Biſhop not agreeing to ſuch undervalue and unreaſonable Terms as they propoſed, there was thereupon an Attempt to diſſeize the Biſhop of his Freehold, by means of the ſaid Mr. <hi>Cairnes,</hi> alſo Agent for the ſaid Society, and of one <hi>Harvey,</hi> Chamberlain of the ſaid Corporation, and of the Under-tenants, who lived on the Premiſes; and they pre<g ref="char:EOLhyphen"/>tended to ſet up a Title in the Society, and agreed to take a Leaſe from them at 90 <hi>l.</hi> 10 <hi>s. per Annum;</hi> and partly by force in ſome places, and by practices with the Under-Tenants, who pre<g ref="char:EOLhyphen"/>tended to attorn in other places, they endeavoured to get the Poſſeſſion.</p>
+            <p>The Biſhop, to ſave the Church from being ſtript of its Patrimony by ſuch Contrivances and Frauds as were in this Caſe, where all the Confederates by ſeveral ſorts of Rewards for their Pra<g ref="char:EOLhyphen"/>ctices had made themſelves Parties, and intereſted therein, and there being no Remedy to regain the Poſſeſſion upon the Statutes of forcible Entry, by reaſon it was within the Liberties of <hi>Londonderry,</hi> where no Juſtices of the Peace have any Power but themſelves, who were in<g ref="char:EOLhyphen"/>tereſted or concerned therein: According to the common Uſage in that Kingdom, brought a Bill in Chancery, there to be by Injunction quieted in his Poſſeſſion, and had the Common Affidavit of his Poſſeſſion; and the Cauſe coming to be heard on the 11th of <hi>June,</hi> 1697. both the Chief Juſtices being called by the Lord Chancellor for his Aſſiſtants, declared, <hi>That the Biſhop ought to be reſtored and quieted in his Poſſeſſion.</hi> But the Lord Chancellor declared, <hi>That though the Society had no right to the Poſſeſſion, yet he could not grant any Injunction to quiet the Biſhop's Poſſeſſion, till it were tried by a Jury, whether the Biſhop, or his Predeceſſors, were ever in actual Poſſeſſion, ſo as to have a Right to the Poſſeſſion at the Expiration of the Leaſe<g ref="char:punc">▪</g> conceiving the Juſtice of the Caſe to be, that if the Biſhop were ever in actual Poſſeſſion, he ought to be adjudged ſo at the Expiration of the Leaſe;</hi> yet he would not order an Injunction.</p>
+            <p>And on a ſecond hearing of the 30th of <hi>June,</hi> his Lorſhip was pleaſed to decree, <hi>That if the Lord Biſhop of</hi> Londonderry, <hi>or any of his Predeceſſors, ever were in the actual Poſſeſſion, or in ſuch Poſſeſſion by the Receipt of the Rents during the Leaſe, that doth by Conſtruction of Law give the Lord Biſhop a Right to the actual Poſſeſſion upon the Expiration of the Leaſe, that then he ought to be
+<pb n="2" facs="tcp:179932:2"/>
+quieted in his Poſſeſſion by Injunction of this Court; but if the Lord Biſhop, or any of his Predeceſſors never were in any ſuch Poſſeſſion, then this Court cannot grant an Injunction, therefore a Tryal at Law ſhall be directed upon an Iſſue proper.</hi> From which Decree the Biſhop appealed to the Lords there, who taking the Poſſeſſion of the Biſhops Tenants to be the Poſſeſſion of the Biſhop, as the Chief Juſtices had done, and the Lords having a juſt Indignation againſt the undue Practices and Treacheries which they ſaw proved in this Caſe, they did thereupon alter that Decree, and ordered the Biſhop's Poſſeſſion to be quieted, which is no more than has been conſtantly till now in ſuch Caſes done there by the Court of Chancery, and can be no wrong to the Society; for if they have any Right, they may bring their Action, and try it at Law as ſoon as they pleaſe. But inſtead of that, they have brought this Appeal againſt the Order of the Lords in <hi>Ireland;</hi> and thereupon your Lordſhips ſeeing it <hi>primae impreſſionis;</hi> and that ſuch an Appeal had never been before attempted from the Lords in <hi>Ireland,</hi> were pleaſed not to read the Petition of Appeal, but to direct Preſidents to be ſent from thence, touching the Method of Appealing from the Chancery there. And on theſe Preſidents, and what others are to be offered here, and the rea<g ref="char:EOLhyphen"/>ſons of this Caſe; It is humby hoped that your Lorſhips will not take cognizance of this new ſort of Appeal.</p>
+            <p n="1">
+               <note place="margin">Co. 1. Inſt. 81. Dyer, 376.</note>I. It muſt in the firſt place be allowed, that no Court whatſoever hath any Right of Juriſ<g ref="char:EOLhyphen"/>diction, but either by Uſage and Preſcription, or by Grant; and neither of theſe can be pretend<g ref="char:EOLhyphen"/>ed in this Caſe; for from the beginning to this time, there never before was any Appeal brought from the Lords of <hi>Ireland</hi> to the Lords of <hi>England;</hi> and it muſt be granted to be a ſtrong Ar<g ref="char:EOLhyphen"/>gument, That as my Lord <hi>Cooke</hi> ſays, what never has been done, ought not to be done, nor can be done.</p>
+            <p n="2">II. In the next place 'tis to be conſidered, That the Lords in <hi>Ireland</hi> have for many Ages ex<g ref="char:EOLhyphen"/>erciſed ſuch Juriſdiction there, as the Lords in <hi>England</hi> have done here, and Claim ſuch Rights from the Conſtitution of that Kingdom, by the Conceſſions and Grants of the Kings of <hi>England,</hi> and from Uſage and Preſcription; and that it has been allowed them in <hi>England;</hi> and never till now any Appeal was brought againſt any one of their Judgments, Decrees, or Orders whatſoever.</p>
+            <p>To ſhew what Authority <hi>England</hi> hath allowed to the Parliament of <hi>Ireland,</hi> ſee the Re<g ref="char:EOLhyphen"/>cords following.</p>
+            <p>
+               <note place="margin">Ex Rot. Pat. de Anno 30 Reg. Regis Henrici 3. M. 1.</note>
+               <hi>Quia pro communi utilitate Terrae Hiberniae &amp; unitate Terrarum Regis Rex vult &amp; de communi Concilio Regis proviſum eſt quod omnes leges &amp; Conſuetudinis quae in Regno Angliae tenentur, in Hi<g ref="char:EOLhyphen"/>bernia teneantur &amp; eadem terrae eiſdem legibus ſubjaceat, &amp; per eaſdem regatur, ſicut Dominus Jo<g ref="char:EOLhyphen"/>hannes Rex cum ultimo eſſet in Hibernia ſtatuit &amp; fieri mandavit. Quia etiam quod Rex vult quod omnia brevia de Communi jure quae currunt in Angli<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſimiliter currant in Hibernia ſub novo ſigillo Re<g ref="char:EOLhyphen"/>gis. Mandatum eſt Archiepiſcopis,</hi> &amp;c. <hi>Quod propace &amp; tranquilitate ejuſdem terrae per eaſdem leges eos Regi &amp; deduci permittant &amp; eos in omnibus ſequantur. In cujus,</hi> &amp;c. <hi>Teſte Rege apud Wudſtock</hi> 19. <hi>die Septembris.</hi>
+            </p>
+            <p>
+               <note place="margin">Pryn's <hi>Anim.</hi> 286. 29. Ed. 3.</note>King <hi>Edward</hi> the IIId. in the 29th Year of his Reign, by Advice of his Council made an Ordinance, Reciting, That whereas many of the Kingdom of <hi>Ireland,</hi> by reaſon of their great labour, charge, and expence in coming for <hi>England</hi> to be redreſſed, and to ſeek for Juſtice, have been reduced to great miſery and want, and wholly ruined; which the ſaid King and Council taking into Conſideration, for the quiet and good Government of the people of <hi>Ireland</hi> Ordain<g ref="char:EOLhyphen"/>ed; that in all Caſes whatſoever, Errors in Judgment, in Records and Proceſs, in the Courts of <hi>Ireland,</hi> ſhall be corrected and amended in Parliament in <hi>Ireland.</hi>
+            </p>
+            <p>
+               <note place="margin">Co. 4 Inſt. 12. Selden<hi>'s Titles of Honour,</hi> part 2. cap. 5. ſect. 26.</note>The <hi>Modus tenendi Parliamentum</hi> Was Exemplified and ſent over by <hi>H.</hi> the IId. the ſame in words with that in <hi>England,</hi> and in the end of it it is ſaid that things in <hi>Ireland</hi> may be ex<g ref="char:EOLhyphen"/>amined and corrected in <hi>pleno Parliamento &amp; non alibi;</hi> and my Lord <hi>Cook</hi> mentions the words of the old Record, <hi>Terra Hiberniae intra ſe habet Parliamentum &amp; omnes &amp; omnimodas curias prout in Anglia, &amp; idem Parliamentum, facit leges, &amp; mutat leges &amp; illi de eadem terra non obligantur per Statut in Anglia quia hii non habent milites Parliamenti;</hi> and my Lord <hi>Cook</hi> mentions another old Roll of Parliament,<note place="margin">Rot. Pat. 10. Ed. 2. Co. 4. Inſt. 350.</note> 
+               <hi>De Parliamentis tenendis ſingulis Annis in Hibernia,</hi> which was likewiſe the old Law of <hi>England;</hi> but till the Diſſolution of the Parliament there in 1665. this Law by fre<g ref="char:EOLhyphen"/>frequent Parliaments were more duly obſerved there, than in <hi>England.</hi>
+            </p>
+            <p>
+               <note place="margin">St Hib. 10. H. 7. cap. 22.</note>And there they have from time to time made their own Laws; and in the Tenth <hi>H.</hi> 7th by one Act made all the Statutes of <hi>England</hi> of force there, which includes as well the Statutes relating to the Rights of Parliament, as other Statutes: And ſince that time they have by parti<g ref="char:EOLhyphen"/>cular Acts there Re-enacted ſuch ſubſequent Acts of <hi>England</hi> as they thought good for them.</p>
+            <p>And if the Lords ſhould take Cognizance of ſuch Appeals, the ſame inconveniences and vexations would attend the poor People there, which induced the Parliament to take away the High Commiſſion Court here, for that it brought People from the remote parts of the
+<pb n="3" facs="tcp:179932:2"/>
+Kingdom before them, whereas they might with leſs trouble and expence have had Juſtice in their Courts at home. It likewiſe agrees with the Reaſons of the Two Ancient Statute of <hi>England</hi> mentioned by my Lord <hi>Cook</hi> in the Third of <hi>R.</hi> Second,<note place="margin">Co. 4. Inſt. 356. Rot. Pat. 3 R 2. nu. 42.</note> That Perſons having Eſtates in <hi>Ireland</hi> ſhould reſide there, elſe half of their Eſtates to go to maintain the Forts againſt the <hi>Iriſh:</hi> And it was the great miſchief of Ancient times in <hi>England,</hi> that People were carried out of the Kingdom by Appeal to <hi>Rome,</hi> and poor People not able to follow them, thereby utterly undone; and ſhould the Lords of <hi>England</hi> at this day inquire into,<note place="margin">Miſchiefs and Inconvenien<g ref="char:EOLhyphen"/>ces if your Lordſhips hear this Ap<g ref="char:EOLhyphen"/>peal.</note> and unſettle things done by the Lords there, beſides the endleſs trouble to their Lordſhips, the vexations and ex<g ref="char:EOLhyphen"/>pence to the People, it would be of infinite miſchief and diſturbance to moſt of the Titles and Families who are now there in peace, and acquieſce on what has been done there; and if your Lordſhips take Cognizane of this, you may by the ſame reaſon take Cognizance of all other Things, Orders, and Proceedings whatſoever there.</p>
+            <p>The Exerciſe of the Juriſdiction of the Parliament in <hi>Ireland,</hi> both of Ancient and later times appeareth to be as in <hi>England,</hi> by their taking Cognizance of Impeachments, Writs of Error, and Appeals: Some inſtances whereof are hereunto annexed, though many of the Re<g ref="char:EOLhyphen"/>cords and Journals of the Parliament of that Kingdom, have been by the many Troubles and Rebellions there, burnt and deſtroy'd; yet it doth appear, That the Lords there have from time to time exerted their Juriſdiction as aforeſaid, and all their Orders and Judgments have till now ſtood firm; and that they have as near as they could from time to time in their Rules and Methods of Juſtice and Proceedings, followed the Preſidents that Your Lordſhips, and Your Noble Anceſtors made here.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>1</label> It is Objected, That a Writ of Error lies to the King's-Bench in <hi>England,</hi> from the King's-Bench in <hi>Ireland.</hi> And it is ſo; but then that has had a conſtant allowed uſage to warrant it; and it does not follow, becauſe a Writ of Error lies to the Kings-Bench here, that therefore Appeals would lie from the Chancery there, to the Chancery here, which might be as reaſon<g ref="char:EOLhyphen"/>able to be done, but never was attempted.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> It is likewiſe Objected, That there lies an Appeal from the Chancery there, to the Lords here; and it is true that ſome, but very few, ſuch Appeals have been brought, and theſe few on<g ref="char:EOLhyphen"/>ly very lately, and occaſioned by the want of the Parliament Sitting in <hi>Ireland,</hi> and paſſed <hi>ſub Silentio</hi> without any oppoſition in that reſpect.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>  Another Objection is made from <hi>Poining</hi>'s Law in the Tenth of <hi>H.</hi> Seventh;<note place="margin">St. 10. H. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. cap. 4.</note> but that is no<g ref="char:EOLhyphen"/>thing at all to this purpoſe, for it concerns only the appointing a new Method and Form of paſſing of Acts of Parliament there, that they muſt be tranſmitted and approved at the Coun<g ref="char:EOLhyphen"/>cil-Board in <hi>England,</hi> but that alters nothing of their judicial power or capacity ſo long eſta<g ref="char:EOLhyphen"/>bliſhed and enjoyed by them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/>  Another Objection is made, That <hi>Ireland</hi> would be independent of <hi>England;</hi> and which is very undeſerved if any body conſider how unanimous and zealous the Proteſtants of <hi>Ireland</hi> have very lately, and on all occaſions appeared for the <hi>Engliſh</hi> Intereſt there, to the loſs of their Lives and all they had, and how little able they are to ſupport themſelves, without the Aſſiſtance and Protection of <hi>England:</hi> And the weakneſs of the Objections appears yet the more; for the ſame Argument may be made againſt their having any Parliament to ſit in <hi>Ireland;</hi> for if they be allowed to have right to a Parliament, they muſt alſo be allowed the right of Par<g ref="char:EOLhyphen"/>liaments, which they have hitherto exerciſed and enjoyed.</p>
+            <p>For which Reaſons 'tis humbly hoped Your Lordſhips will not take any further Cognizance of the ſaid Appeal.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>James Sloane.</item>
+                     <item>Fra. Anneſley.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:179932:3"/>
+            <head>An Abſtract of ſome of the Preſidents in <hi>Ireland,</hi> which were certi<g ref="char:EOLhyphen"/>fied from thence by the Lords Juſtices, and Council there, to Your Lordſhips.</head>
+            <p>
+               <note place="margin">8 H 6. M. 70. Prynn's Ani<g ref="char:EOLhyphen"/>mad. 313, 314.</note>THE Prior of <hi>Lanthony</hi> removed by Writ of Error a Judgment in the Kings-Bench in <hi>Ireland,</hi> to the Parliament of <hi>Ireland,</hi> which was affirmed there: Afterwards the Prior removed the Record into the Kings-Bench in <hi>England;</hi> but the Chief Juſtice and the reſt of the Judges being of Opinion that they could not reverſe a Judgment given in the Parliament of <hi>Ireland,</hi> or take conuſance of any matters in their Parliament there, the Prior petitioned the Parliament of <hi>England,</hi> ſetting forth the ſaid Proceedings, and prayed Redreſs; but the Parliament here did not think it conuſable before them, and therefore no Anſwer was ever given thereto, or any Proceedings thereon.</p>
+            <p>
+               <note place="margin">Nota,</note>The Judges of the Kings-Bench in <hi>England</hi> were then of Opinion, That the Parliament of <hi>Ireland</hi> had a good Judicature.</p>
+            <p>
+               <note place="margin">Rot. Hib. 26. H. 6. cap 34.</note>In a Caſe between <hi>Chambers</hi> and the Barons of the Exchequer, the Parliament there reverſed a Judg<g ref="char:EOLhyphen"/>ment given in the Exchequer.</p>
+            <p>
+               <note place="margin">Rot. Parl. Hib. 27. H. 6. cap 16.</note>In a Caſe between the Baron of <hi>Galtrim</hi> and the Earl of <hi>Shrewsbury,</hi> on a Petition to Parliament, it was ordered that a Stop ſhould be put to the taking out of Executions on a <hi>Scire facias</hi> iſſued on a Recog<g ref="char:EOLhyphen"/>nizance in Chancery.</p>
+            <p>
+               <note place="margin">Rot Parl. Hib. 27. H 6. cap. 25.</note>Parliament ordered on Petition, That the Petitioner be quieted in the Poſſeſſion of the Treaſurerſhip of <hi>Limerick,</hi> purſuant to a Decree of <hi>Chancery;</hi> he having been diſpoſſeſſed by virtue of the King's Letters and Privy Seal out of <hi>England.</hi>
+            </p>
+            <p>
+               <note place="margin">Nota,</note>This Record ſhews that the Parliament intermeddled in matters which concerned the Chancery, and alſo the King, in which he acquieſced.</p>
+            <p>
+               <note place="margin">Rot Parl. Hib. 7. Ed 4 c 47.</note>
+               <hi>Anne,</hi> the Wife of Sir <hi>William Welles,</hi> Knight, and <hi>Richard</hi> his Son, Executors of the ſaid Sir <hi>William,</hi> and <hi>Matthew Philips;</hi> Judgment given by the Lords in this Cauſe.</p>
+            <p>
+               <note place="margin">25 July, 1634.</note>It was in Parliament declared, That an Adjournment of the Houſe of Lords was neceſſary, it being a Court of Law, the higheſt in the Kingdom, that ſends Writs of Error to the Kings-Bench.</p>
+            <p>
+               <note place="margin">20 Nov. 1634.</note>The Lords of <hi>Ireland</hi> order that the Officers of their Houſe ſhould receive their Fees in <hi>Iriſh</hi> Money; but in Caſes of Bills, or Suits commenced in the Houſe between Party and Party, the Clerk ſhall receive the ſame in <hi>Engliſh</hi> Money, as in <hi>England.</hi>
+            </p>
+            <p>
+               <note place="margin">27 Feb. 16<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note>An Impeachment brought up from the Commons to the Lords, by <hi>Audley Mervin</hi> againſt Sir <hi>Richard Bol<g ref="char:EOLhyphen"/>ton,</hi> Lord Chancellor, and others.</p>
+            <p>
+               <note place="margin">24 May, 1641.</note>Declaration and Proteſtation of the Lords and Commons of <hi>Ireland,</hi> That the Court of Parliament in <hi>Ireland</hi> is the Supreme Court of Judicature, to hear and determine all Civil and Criminal Cauſes whatſoever, as in <hi>England.</hi>
+            </p>
+            <p>
+               <note place="margin">20 May, 1661.</note>Petition of <hi>Nicholas Darcy</hi> to the Lords in <hi>Ireland,</hi> That the Lord Chief Juſtice ſhould Seal a Writ of Er<g ref="char:EOLhyphen"/>ror, and give Copies of Records to the Petitioner and heard Council.</p>
+            <p>
+               <note place="margin">15 June, 1661.</note>By the Houſe of Lords of <hi>Ireland,</hi> Ordered, That the Church be immediately reſtored to all their Poſſeſſions.</p>
+            <p>
+               <note place="margin">5 July, 1661.</note>Ordered, That the Lord Chancellor do Seal a Writ of Error in the Caſe of the Lord <hi>Clancarty</hi>'s Out<g ref="char:EOLhyphen"/>lawry, returnable in this Houſe.</p>
+            <p>
+               <note place="margin">27 July, 1661.</note>Lord Viſcount <hi>Ranelagh</hi>'s Petition and Appeal from the High Court of Chancery to be relieved againſt a Decree made there, <hi>Anno</hi> 1658, at the Suit of Dame <hi>Catherine Bingham,</hi> and <hi>John Paulet,</hi> Gent. Upon hearing of the ſaid Cauſe the ſaid Decree was Reverſed.</p>
+            <p>
+               <note place="margin">2 June, 1662.</note>Ordered by the Lords Houſe, that the Biſhop of <hi>Derry</hi> be put in Poſſeſſion of <hi>Termonderry</hi> near <hi>London-Derry,</hi> the ſaid Biſhop having been in Poſſeſſion thereof in 1641.</p>
+            <p>Nota, <hi>This was part of the Land which is now in Diſpute.</hi>
+            </p>
+            <p>
+               <note place="margin">24 June, 1662.</note>The Cauſe between <hi>Theophilus Lea,</hi> and <hi>William Leſlie,</hi> concerning matter of Title, not coming hither by way of Appeal from any other Court, Ordered, That the Cauſe be therefore diſmiſſed from the Houſe to the Common Law.</p>
+            <p>
+               <note place="margin">20 Dec. 1662.</note>
+               <hi>Kean ó Hora &amp; Uxor,</hi> againſt <hi>Robert Parkes,</hi> 
+               <abbr>Eſq</abbr> Defendant, <hi>Parks</hi> obtained a Judgment in the King's-Bench againſt the Plaintiff, which Judgment was removed by Writ of Error into the Houſe of Lords, upon which a <hi>Scire Facias</hi> iſſued to the ſaid <hi>Parkes,</hi> and the return thereupon made, and a day appointed for Ar<g ref="char:EOLhyphen"/>guing the Errors.</p>
+            <p>
+               <note place="margin">9 Feb. 1662.</note>Ordered by the Lords, That ſome of the Judges prepare a Draught for the Houſe, that no cauſe or matter in difference between Party and Party, which may be determined in any of his Majeſty's ordinary Courts of Juſtice or Equity, ſhall be admitted to receive Hearing before the Houſe, except in caſe of Appeal; Writ of Error, or Matter of Priviledge.</p>
+            <p>
+               <note place="margin">19 Mar. 1662.</note>Petition and Appeal of Lord Viſcount <hi>Ely</hi> of <hi>Loftus,</hi> againſt a Judgment obtained againſt his Father Lord Chancellor <hi>Loftus</hi> at Council-Board, before the then Lord Lieutenant and others, and ſeveral other Proceedings in the Courts of Law there had upon the ſaid Judgment, and ſeveral Orders of the Houſe thereupon.</p>
+            <p>
+               <note place="margin">29 Octo. 1695.</note>Appeal of the Earl of <hi>Meath,</hi> and <hi>Cecilia,</hi> Counteſs of <hi>Meath,</hi> his Lady, againſt the Lord <hi>Ward,</hi> from a Decree made in the Chancery of the County-Palatine of <hi>Tipperary,</hi> by which certain Lands were Decreed to the Lord <hi>Ward,</hi> the Decree Reverſed, and the Poſſeſſion of the ſaid Lands reſtor'd to the ſaid Earl.</p>
+            <p>
+               <note place="margin">29 Octo. 1695.</note>Appeal of <hi>Samuel Maynard</hi> againſt an Order conceived in the Chancery Court of the County Palatine of <hi>Tipperary,</hi> directing an iſſue at Law, on hearing, the ſaid Appeal was diſmiſſed.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
